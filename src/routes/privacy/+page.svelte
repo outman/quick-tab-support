@@ -1,5 +1,6 @@
 <script>
 	import logo from '$lib/assets/qt_128@1x.png';
+	import { base } from '$app/paths';
 </script>
 
 <div class="min-h-screen bg-gradient-to-b from-gray-50 to-white">
@@ -122,7 +123,7 @@
 			<!-- Back to Home Link -->
 			<div class="text-center mt-8">
 				<a
-					href="/"
+					href="{base}/"
 					class="inline-flex items-center text-blue-600 hover:text-blue-700 font-medium transition-colors"
 				>
 					← Back to Home
