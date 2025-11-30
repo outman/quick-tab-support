@@ -8,21 +8,21 @@
 	<section class="container mx-auto px-6 py-20">
 		<div class="max-w-4xl mx-auto text-center">
 			<div class="flex flex-col md:flex-row items-center justify-center gap-4 mb-6">
-				<img src={logo} alt="QuickTab Logo" class="w-32 h-32" />
+				<img src={logo} alt="QuickTabs Logo" class="w-32 h-32" />
 				<h1 class="text-5xl md:text-6xl font-bold text-gray-900 tracking-tight">
-					QuickTab
+					QuickTabs
 				</h1>
 			</div>
 			<p class="text-xl text-gray-600 mb-12 leading-relaxed max-w-2xl mx-auto">
 				一款 macOS 原生应用，类似 <kbd class="px-2 py-1 bg-gray-100 rounded text-sm font-mono">⌘+Tab</kbd> 切换应用，但更强大。
-				QuickTab 在原有基础上增加了数字编号，唤起应用列表后，直接按数字即可快速切换应用。
+				QuickTabs 在原有基础上增加了数字编号，唤起应用列表后，直接按数字即可快速切换应用。
 			</p>
 
 			<!-- App Screenshot -->
 			<div class="mb-16 rounded-2xl shadow-2xl overflow-hidden bg-white p-4">
 				<img
 					src={introImage}
-					alt="QuickTab 应用界面"
+					alt="QuickTabs 应用界面"
 					class="w-full h-auto rounded-lg"
 				/>
 			</div>

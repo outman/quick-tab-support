@@ -8,7 +8,7 @@
 	<section class="container mx-auto px-6 py-12">
 		<div class="max-w-4xl mx-auto">
 			<div class="flex items-center justify-center gap-4 mb-8">
-				<img src={logo} alt="QuickTab Logo" class="w-16 h-16" />
+				<img src={logo} alt="QuickTabs Logo" class="w-16 h-16" />
 				<h1 class="text-4xl md:text-5xl font-bold text-gray-900 tracking-tight">
 					Privacy Policy
 				</h1>
@@ -26,7 +26,7 @@
 						Your Privacy Matters to Us
 					</h2>
 					<p class="text-gray-700 leading-relaxed text-lg">
-						At QuickTab, we are committed to protecting your privacy and ensuring the security of your personal information. We understand that privacy is a fundamental right, and we have designed our application with your privacy as a top priority. This privacy policy explains how we handle your data and what you can expect when using QuickTab.
+						At QuickTabs, we are committed to protecting your privacy and ensuring the security of your personal information. We understand that privacy is a fundamental right, and we have designed our application with your privacy as a top priority. This privacy policy explains how we handle your data and what you can expect when using QuickTabs.
 					</p>
 				</div>
 
@@ -36,7 +36,7 @@
 						No Data Collection
 					</h2>
 					<p class="text-gray-700 leading-relaxed mb-4">
-						QuickTab operates entirely on your local device. We do not collect, store, or transmit any personal information, usage data, or analytics. Specifically:
+						QuickTabs operates entirely on your local device. We do not collect, store, or transmit any personal information, usage data, or analytics. Specifically:
 					</p>
 					<ul class="list-disc list-inside text-gray-700 leading-relaxed space-y-2 ml-4">
 						<li>No personal information is collected or stored</li>
@@ -46,7 +46,7 @@
 						<li>All application data remains on your local machine</li>
 					</ul>
 					<p class="text-gray-700 leading-relaxed mt-4">
-						Everything you do with QuickTab stays on your device. We have no servers, no databases, and no way to access your information even if we wanted to.
+						Everything you do with QuickTabs stays on your device. We have no servers, no databases, and no way to access your information even if we wanted to.
 					</p>
 				</div>
 
@@ -56,7 +56,7 @@
 						No Data Sharing
 					</h2>
 					<p class="text-gray-700 leading-relaxed mb-4">
-						Since we do not collect any data, there is nothing to share. QuickTab does not:
+						Since we do not collect any data, there is nothing to share. QuickTabs does not:
 					</p>
 					<ul class="list-disc list-inside text-gray-700 leading-relaxed space-y-2 ml-4">
 						<li>Share data with third parties</li>
@@ -76,10 +76,10 @@
 						Legal Compliance
 					</h2>
 					<p class="text-gray-700 leading-relaxed mb-4">
-						QuickTab is designed to comply with major privacy regulations, including:
+						QuickTabs is designed to comply with major privacy regulations, including:
 					</p>
 					<ul class="list-disc list-inside text-gray-700 leading-relaxed space-y-2 ml-4">
-						<li><strong>GDPR (General Data Protection Regulation):</strong> As we do not collect or process personal data, QuickTab naturally complies with GDPR requirements.</li>
+						<li><strong>GDPR (General Data Protection Regulation):</strong> As we do not collect or process personal data, QuickTabs naturally complies with GDPR requirements.</li>
 						<li><strong>CCPA (California Consumer Privacy Act):</strong> Since no personal information is collected, there is no data to disclose, delete, or opt-out of.</li>
 						<li><strong>PIPEDA (Personal Information Protection and Electronic Documents Act):</strong> Our zero-data-collection approach ensures compliance with Canadian privacy laws.</li>
 					</ul>
@@ -94,7 +94,7 @@
 						Contact Information
 					</h2>
 					<p class="text-gray-700 leading-relaxed mb-4">
-						If you have any questions, concerns, or requests regarding this privacy policy or how QuickTab handles your information, please contact us:
+						If you have any questions, concerns, or requests regarding this privacy policy or how QuickTabs handles your information, please contact us:
 					</p>
 					<div class="bg-gray-50 rounded-lg p-8 border border-gray-200">
 						<p class="text-gray-700 mb-2">
